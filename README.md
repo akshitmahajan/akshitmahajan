@@ -4,9 +4,6 @@ whoami -> 👨💻 a Java Developer upgrading to Full Stack Developer 🚀 worki
 
 🌱 I’m currently learning -> Reactive Java programming and Dart, experimenting with Nvidia Tx2 and RaspberryPi for image processing projects.
 
-🔭 I’m currently working on -> an IoT product (specific to connected cars) in capacity of a Software Engineer
-                               & building NextGen B2B e-commerce App.
-
 ⚡ Fun fact -> I like to play musical instruments.
 
 📫 How to reach me -> https://www.linkedin.com/in/ak1801/
