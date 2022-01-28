@@ -1,8 +1,8 @@
 Hey 👋🏽, I'm Akshit!
 
-whoami -> 👨💻 A Software Engineer 🚀 working in Bangalore, India. Recognized for being versatile, picking up new tools and technologies, driving value for clients and achieving outcomes. Passionate about designing & developing secure, highly available & low latency softwares. I love to innovate and do rapid prototyping of IoT solutions and tinker with drones & robotics.
+whoami -> 👨💻 Software Engineer 🚀 recognized for being versatile, picking up new tools and technologies, driving value for clients and achieving outcomes. Passionate about designing & developing distributed, highly available & low latency software. I love to innovate and do rapid prototyping of IoT solutions and tinker with drones & robotics.
 
-🌱 I’m currently learning -> Flutter and Dart for developing Native-like mobile applications.
+🌱 I’m currently learning -> Flutter and Dart for developing mobile applications.
 
 ⚡ Fun fact -> I like to play musical instruments.
 
