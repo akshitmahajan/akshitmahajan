@@ -1,8 +1,8 @@
 ### Hello ! I'm Akshit Mahajan 👋
 
-[![Twitter: JoffreyTrebot](https://img.shields.io/twitter/follow/aksh_1801?style=social)](https://twitter.com/aksh_1801)
-[![LinkedIn: Joffrey Trebot](https://img.shields.io/badge/Akshit%20Mahajan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ak1801)](https://www.linkedin.com/in/ak1801/)
-[![GitHub JoffreyTrebot](https://img.shields.io/github/followers/Akshit Mahajan?label=follow&style=social)](https://github.com/akshitmahajan)
+[![Twitter: Akshit Mahajan](https://img.shields.io/twitter/follow/aksh_1801?style=social)](https://twitter.com/aksh_1801)
+[![LinkedIn: Akshit Mahajan](https://img.shields.io/badge/Akshit%20Mahajan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ak1801)](https://www.linkedin.com/in/ak1801/)
+[![GitHub Akshit Mahajan](https://img.shields.io/github/followers/akshitmahajan?label=follow&style=social)](https://github.com/akshitmahajan)
 
 whoami -> 👨💻 Software Engineer 🚀 recognized for being versatile, picking up new tools and technologies, driving value for clients and achieving outcomes. Passionate about designing & developing distributed, highly available & low latency software. I love to innovate and do rapid prototyping of IoT solutions and tinker with drones & robotics.
 
