@@ -7,7 +7,7 @@
 whoami -> 👨💻 Software Engineer 🚀 recognized for being versatile, picking up new tools and technologies, driving value for clients and achieving outcomes. Passionate about designing & developing distributed, highly available & low latency software. I love to innovate and do rapid prototyping of IoT solutions and tinker with drones & robotics.
 
 🌱 I’m currently learning
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code> 
 
 ⚡ I love hackathons.
 
