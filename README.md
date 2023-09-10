@@ -1,6 +1,6 @@
 <h1 align="center">Hey Folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Akshit Mahajan</h1>
 
-<h3 align="center">Software Engineer progressing into Fullstack Dev</h3>
+<h3 align="center">Software Engineer - Distributed Systems</h3>
 
 <div align=center>
   <a href="https://www.linkedin.com/in/ak1801/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
@@ -8,7 +8,7 @@
   <br><br>
 </div>
 
-- 👨‍💻 I am Backend Engineer with focus on designing & developing distributed, highly available & low latency software components. Experienced in micro-services and NoSQL technolgies.
+- 👨‍💻 I am Backend Engineer with focus on designing & developing distributed, highly available, low latency & scalable software components. Experienced in micro-services and NoSQL technolgies.
 
 - 🚀 I love to innovate and do rapid prototyping of IoT solutions and tinker with drones & raspberry-pi.
 
