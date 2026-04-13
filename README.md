@@ -8,11 +8,11 @@
   <br><br>
 </div>
 
-- 👨‍💻 I am Backend Engineer with focus on designing & developing distributed, highly available, low latency & scalable software components. Experienced in micro-services and NoSQL technolgies.
+- 👨‍💻 I am a Software Engineer with focus on designing & developing distributed, highly available, low latency & scalable software components. Experienced in micro-services and NoSQL technolgies.
 
 - 🚀 I love to innovate and do rapid prototyping of IoT solutions and tinker with drones & raspberry-pi.
 
-- 🌱 Learning dart & planning to learn GoLang.
+- 🌱 Learning AI tools, LLM Prompts and agentic AI to build future-ready applications.
 
 - ⚡ I love hackathons.
 
